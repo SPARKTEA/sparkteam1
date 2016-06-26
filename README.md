@@ -1,6 +1,6 @@
 ~~This is Simple README 
 
-~~ Source Superflux For Supergroups 
+~~ Source sparkteam1 For Supergroups 
 
 +~~Developer By : @sparkteam1x On Telegram ,
 
@@ -54,7 +54,7 @@ Then ask You Number To put him Bot
 
 ----------------------------
 
-For the inauguration #SourceSuperflux 
+For the inauguration #Sourcesparkteam1 
 
 
 
